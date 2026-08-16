@@ -8,11 +8,15 @@
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
   <a href="https://github.com/kk53451/Briefly" target="_blank"><img src="https://img.shields.io/badge/AI 기반 개인화 뉴스 팟캐스트(Briefly)-FF6F61?style=for-the-badge&logoColor=FFFFFF"/></a>
+  <br>
   <a href="https://github.com/zzioozzioo/cheonan_traffic_project" target="_blank"><img src="https://img.shields.io/badge/교차로별_교통_혼잡도_예측-4DA1FF?style=for-the-badge&logoColor=FFFFFF"/></a>
+  <br>
   <a href="https://github.com/zzioozzioo/NotWaste" target="_blank"><img src="https://img.shields.io/badge/냉장고 관리 앱(NotWaste)-6FCF97?style=for-the-badge&logoColor=FFFFFF"/></a>
   <br>
   <a href="https://github.com/zzioozzioo/h26_textmine/tree/main/crawling" target="_blank"><img src="https://img.shields.io/badge/채용_공고_기반_데이터_분석-F2994A?style=for-the-badge&logoColor=FFFFFF"/></a>
+  <br>
   <a href="https://github.com/zzioozzioo/h26_web/tree/main/mini-game" target="_blank"><img src="https://img.shields.io/badge/테트리스_미니게임-9B51E0?style=for-the-badge&logoColor=FFFFFF"/></a>
+  <br>
   <a href="https://github.com/zzioozzioo/bank_system" target="_blank"><img src="https://img.shields.io/badge/은행_시스템_구현_프로젝트-EB5757?style=for-the-badge&logoColor=FFFFFF"/></a>
 <br>
 <br>
