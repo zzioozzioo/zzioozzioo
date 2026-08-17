@@ -99,6 +99,6 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats-five-kappa-63.vercel.app/api?username=zzioozzioo)](https://github.com/zzioozzioo/github-readme-stats)
 
- <!-- ![Top Langs](https://github-readme-stats-five-kappa-63.vercel.app/api/top-langs/?username=zzioozzioo&layout=compact&theme=algolia)
-</div> --> 
+ ![Top Langs](https://github-readme-stats-five-kappa-63.vercel.app/api/top-langs/?username=zzioozzioo&layout=compact&theme=algolia)
+</div>
 <br>
