@@ -58,7 +58,7 @@
 </div> -->
 
 <br>
-
+  
  <h3 align="center"><b>💻 Languages 💻</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
@@ -97,6 +97,7 @@
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Room%20DB-SQLite?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57"/></a>
   <br>
   <br>
   
@@ -104,6 +105,8 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a> 
+  
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a> 
