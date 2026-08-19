@@ -83,22 +83,20 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
   <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-  <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
  
   <br>
   <br>
  
- <h3 align="center"><b>☁️ Infra & DevOps ☁️</b></h3>
+ <h3 align="center"><b>☁️ Cloud & DevOps ☁️</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a> 
-  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a>  -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <br>
+  <br>
+  
+
+ <h3 align="center"><b>🗄️ Database 🗄️</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Room%20DB-SQLite?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57"/></a>
@@ -109,8 +107,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a> 
-  
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a> 
@@ -118,6 +114,8 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a>   
   <br>
   <br>
   
