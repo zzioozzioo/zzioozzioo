@@ -16,12 +16,16 @@
   <sub>교차로 교통량 데이터를 기반으로 클러스터링과 시계열 예측을 수행하고, <br>신호 조정 정책 효과를 시뮬레이션한 데이터 분석 프로젝트</sub>
 </p>
 <p align="center">
-  <b>📌 <a href="https://github.com/zzioozzioo/NotWaste">냉장고 관리 앱(NotWaste)</a></b><br>
-  <sub>유통기한 기반 알림과 데이터 관리를 통해 음식 낭비를 줄이는 Android 애플리케이션</sub>
+  <b>📌 <a href="https://github.com/zzioozzioo/chestXRAY">흉부 X-ray 분류 프로젝트</a></b><br>
+  <sub>[진행 중] 흉부 X-ray 영상을 정상·세균성 폐렴·바이러스성 폐렴 3종으로 분류하는 딥러닝 프로젝트 </sub>
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/h26_textmine/tree/main/crawling">채용 공고 데이터 분석</a></b><br>
   <sub>[진행 중] 채용 공고의 트렌드와 시급성을 구조화하고, <br>벡터 임베딩 기반의 개인 맞춤형 이력서 추천 및 AI 첨삭까지 연결한 채용 플랫폼 프로젝트</sub>
+</p>
+<p align="center">
+  <b>📌 <a href="https://github.com/zzioozzioo/NotWaste">냉장고 관리 앱(NotWaste)</a></b><br>
+  <sub>유통기한 기반 알림과 데이터 관리를 통해 음식 낭비를 줄이는 Android 애플리케이션</sub>
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/h26_web/tree/main/mini-game">테트리스 미니게임</a></b><br>
