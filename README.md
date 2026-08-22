@@ -16,12 +16,12 @@
   <sub>교차로 교통량 데이터를 기반으로 클러스터링과 시계열 예측을 수행하고, <br>신호 조정 정책 효과를 시뮬레이션한 데이터 분석 프로젝트</sub>
 </p>
 <p align="center">
-  <b>📌 <a href="https://github.com/zzioozzioo/chestXRAY">흉부 X-ray 분류 프로젝트</a></b><br>
-  <sub>[진행 중] 흉부 X-ray 영상을 정상·세균성 폐렴·바이러스성 폐렴 3종으로 분류하는 딥러닝 프로젝트 </sub>
+  <b>📌 <a href="https://github.com/zzioozzioo/chestXRAY">[진행 중] 흉부 X-ray 분류 프로젝트</a></b><br>
+  <sub>흉부 X-ray 영상을 정상·세균성 폐렴·바이러스성 폐렴 3종으로 분류하는 딥러닝 프로젝트 </sub>
 </p>
 <p align="center">
-  <b>📌 <a href="https://github.com/zzioozzioo/h26_textmine/tree/main/crawling">채용 공고 데이터 분석</a></b><br>
-  <sub>[진행 중] 채용 공고의 트렌드와 시급성을 구조화하고, <br>벡터 임베딩 기반의 개인 맞춤형 이력서 추천 및 AI 첨삭까지 연결한 채용 플랫폼 프로젝트</sub>
+  <b>📌 <a href="https://github.com/zzioozzioo/it-job-analytics-hub.git">[진행 중] 채용 공고 데이터 분석</a></b><br>
+  <sub>채용 공고의 트렌드와 시급성을 구조화하고, <br>벡터 임베딩 기반의 개인 맞춤형 이력서 추천 및 AI 첨삭까지 연결한 채용 플랫폼 프로젝트</sub>
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/NotWaste">냉장고 관리 앱(NotWaste)</a></b><br>
@@ -35,31 +35,6 @@
   <b>📌 <a href="https://github.com/zzioozzioo/bank_system">은행 시스템 구현 프로젝트</a></b><br>
   <sub>사용자의 계좌를 관리하고 입/출금 및 계좌이체가 가능한 은행 시스템을 구축한 프로젝트</sub>
 </p>
-
-<!-- <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
-  <a href="https://github.com/kk53451/Briefly" target="_blank"><img src="https://img.shields.io/badge/AI 기반 개인화 뉴스 팟캐스트(Briefly)-FF6F61?style=for-the-badge&logoColor=FFFFFF"/></a>
-  <br>
-  <a href="https://github.com/zzioozzioo/cheonan_traffic_project" target="_blank"><img src="https://img.shields.io/badge/교차로별_교통_혼잡도_예측-4DA1FF?style=for-the-badge&logoColor=FFFFFF"/></a>
-  <br>
-  <a href="https://github.com/zzioozzioo/NotWaste" target="_blank"><img src="https://img.shields.io/badge/냉장고 관리 앱(NotWaste)-6FCF97?style=for-the-badge&logoColor=FFFFFF"/></a>
-  <br>
-  <a href="https://github.com/zzioozzioo/h26_textmine/tree/main/crawling" target="_blank"><img src="https://img.shields.io/badge/채용_공고_기반_데이터_분석-F2994A?style=for-the-badge&logoColor=FFFFFF"/></a>
-  <br>
-  <a href="https://github.com/zzioozzioo/h26_web/tree/main/mini-game" target="_blank"><img src="https://img.shields.io/badge/테트리스_미니게임-9B51E0?style=for-the-badge&logoColor=FFFFFF"/></a>
-  <br>
-  <a href="https://github.com/zzioozzioo/bank_system" target="_blank"><img src="https://img.shields.io/badge/은행_시스템_구현_프로젝트-EB5757?style=for-the-badge&logoColor=FFFFFF"/></a>
-<br> -->
-
-<!-- <h3 align="center"><b>TOY PROJECT 🧸</b></h3>
-
-<div align="center">
-  <a href="https://github.com/kk53451/Briefly"><img src="https://img.shields.io/badge/Briefly-AI_개인화_뉴스_팟캐스트-181717?style=for-the-badge&logo=github"/></a><br><br>
-  <a href="https://github.com/zzioozzioo/cheonan_traffic_project"><img src="https://img.shields.io/badge/Traffic_Predict-교차로_교통_혼잡도_예측-181717?style=for-the-badge&logo=github"/></a><br><br>
-  <a href="https://github.com/zzioozzioo/NotWaste"><img src="https://img.shields.io/badge/NotWaste-냉장고_관리_앱-181717?style=for-the-badge&logo=github"/></a><br><br>
-  <a href="https://github.com/zzioozzioo/h26_textmine/tree/main/crawling"><img src="https://img.shields.io/badge/Data_Analysis-채용_공고_데이터_분석-181717?style=for-the-badge&logo=github"/></a><br><br>
-  <a href="https://github.com/zzioozzioo/h26_web/tree/main/mini-game"><img src="https://img.shields.io/badge/Web_Game-테트리스_미니게임-181717?style=for-the-badge&logo=github"/></a><br><br>
-  <a href="https://github.com/zzioozzioo/bank_system"><img src="https://img.shields.io/badge/Bank_System-은행_시스템_구현-181717?style=for-the-badge&logo=github"/></a>
-</div> -->
 
 <br>
   
