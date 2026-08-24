@@ -9,31 +9,31 @@
 
 <p align="center">
   <b>📌 <a href="https://github.com/kk53451/Briefly">AI 기반 개인화 뉴스 팟캐스트(Briefly)</a></b><br>
-  <sub>AI 기반 뉴스 자동 수집·클러스터링·요약 후 TTS로 개인화 팟캐스트를 생성하는 플랫폼</sub>
+  AI 기반 뉴스 자동 수집·클러스터링·요약 후 TTS로 개인화 팟캐스트를 생성하는 플랫폼
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/cheonan_traffic_project">교차로별 교통 혼잡도 예측</a></b><br>
-  <sub>교차로 교통량 데이터를 기반으로 클러스터링과 시계열 예측을 수행하고, <br>신호 조정 정책 효과를 시뮬레이션한 데이터 분석 프로젝트</sub>
+  교차로 교통량 데이터를 기반으로 클러스터링과 시계열 예측을 수행하고, <br>신호 조정 정책 효과를 시뮬레이션한 데이터 분석 프로젝트
 </p>
 <p align="center">
-  <b>📌 <a href="https://github.com/zzioozzioo/chestXRAY">[진행 중] 흉부 X-ray 분류 프로젝트</a></b><br>
-  <sub>흉부 X-ray 영상을 정상·세균성 폐렴·바이러스성 폐렴 3종으로 분류하는 딥러닝 프로젝트 </sub>
+  <b>📌 [진행 중] <a href="https://github.com/zzioozzioo/chestXRAY">흉부 X-ray 분류 프로젝트</a></b><br>
+  흉부 X-ray 영상을 정상·세균성 폐렴·바이러스성 폐렴 3종으로 분류하는 딥러닝 프로젝트
 </p>
 <p align="center">
-  <b>📌 <a href="https://github.com/zzioozzioo/it-job-analytics-hub.git">[진행 중] 채용 공고 데이터 분석</a></b><br>
-  <sub>채용 공고의 트렌드와 시급성을 구조화하고, <br>벡터 임베딩 기반의 개인 맞춤형 이력서 추천 및 AI 첨삭까지 연결한 채용 플랫폼 프로젝트</sub>
+  <b>📌 [진행 중] <a href="https://github.com/zzioozzioo/it-job-analytics-hub.git">채용 공고 데이터 분석</a></b><br>
+  채용 공고의 트렌드와 시급성을 구조화하고, <br>벡터 임베딩 기반의 개인 맞춤형 이력서 추천 및 AI 첨삭까지 연결한 채용 플랫폼 프로젝트
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/NotWaste">냉장고 관리 앱(NotWaste)</a></b><br>
-  <sub>유통기한 기반 알림과 데이터 관리를 통해 음식 낭비를 줄이는 Android 애플리케이션</sub>
+  유통기한 기반 알림과 데이터 관리를 통해 음식 낭비를 줄이는 Android 애플리케이션
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/h26_web/tree/main/mini-game">테트리스 미니게임</a></b><br>
-  <sub>JavaScript와 HTML5로 구현한 웹 브라우저 테트리스 게임</sub>
+  JavaScript와 HTML5로 구현한 웹 브라우저 테트리스 게임
 </p>
 <p align="center">
   <b>📌 <a href="https://github.com/zzioozzioo/bank_system">은행 시스템 구현 프로젝트</a></b><br>
-  <sub>사용자의 계좌를 관리하고 입/출금 및 계좌이체가 가능한 은행 시스템을 구축한 프로젝트</sub>
+  사용자의 계좌를 관리하고 입/출금 및 계좌이체가 가능한 은행 시스템을 구축한 프로젝트
 </p>
 
 <br>
